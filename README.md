@@ -1,4 +1,4 @@
 # shashank-demo
 This is my First Git Repository
 <br>
-Author - Shashank Chakraborty
+Author - Shashank(Apna College)
